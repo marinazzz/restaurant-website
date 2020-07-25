@@ -1,0 +1,15 @@
+.hero {
+    color: #fff;
+    height: 100%;
+
+    /* parallax scrolling effect */
+    background-blend-mode: multiply;
+    background: slategray no-repeat center / cover fixed url(../assets/images/main-cover-image.jpg);
+
+    .btn {
+        background-color: $btn-primary;
+        border: white;
+        letter-spacing: 0.2rem;
+        font-weight: bold;
+    }
+}
