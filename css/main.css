@@ -1,4 +1,8 @@
 @charset "UTF-8";
+.border-btm {
+  border-bottom: 1px solid #fed136;
+}
+
 /*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
@@ -9967,6 +9971,12 @@ h3 {
   outline: none;
 }
 
+.cta-btn {
+  background-color: #fed136;
+  border: white;
+  letter-spacing: 0.1rem;
+}
+
 .hero {
   color: #fff;
   height: 100%;
@@ -9981,11 +9991,15 @@ h3 {
   font-weight: bold;
 }
 
-.main-content h3 {
-  border-bottom: 1px solid #fed136;
-}
 .main-content .btn {
   border-color: #fed136;
+}
+
+.about {
+  background-color: #c1bebe1c;
+}
+.about address a {
+  color: black;
 }
 
 /*# sourceMappingURL=main.css.map */
