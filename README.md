@@ -1,4 +1,4 @@
-# Reastaurant Website
+## Restaurant Website
 
 > Simple website that can be used for restaurant or any other company profile purpose
 
