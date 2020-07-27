@@ -1,14 +1,9 @@
 @import "./variables";
 @import "./helper-class";
-
-@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "./nav";
+@import "./hero-section";
+@import "./about-section";
 
 @import "../node_modules/bootstrap/scss/functions";
-@import "../node_modules/bootstrap/scss/variables";
-@import "../node_modules/bootstrap/scss/mixins";
-
-@import "./nav";
-@import "./cta-button";
-@import "./hero-section";
-@import "./main-content";
-@import "./about-section";
+@import "./custom-bootstrap/variables-custom-bootstrap";
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
