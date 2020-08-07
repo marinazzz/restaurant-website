@@ -11,4 +11,4 @@
 
 ### Live demo
 
-> GitHub Pages
+> https://marinazzz.github.io/restaurant-website/
